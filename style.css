@@ -1,0 +1,21 @@
+*{
+    font-family:Verdana,Geniva,Sans-serif;
+}
+body{
+    width:200px;
+}
+.title{
+    color:rgb(255,155,0);
+    text-decoration:underline;
+}
+h5{
+    margin-top:0px;
+    margin-bottom:5px;
+}
+.post a{
+    color:rgb(0,0,255);
+    text-decoration:none;
+}
+.post a:hover{
+    color:rgb(150,150,150);
+}
